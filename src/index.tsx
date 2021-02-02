@@ -3,6 +3,8 @@ import {render} from 'react-dom';
 import {Header,Blog,Head,Footer} from './Component/Disaster';
 import reportWebVitals from './reportWebVitals';
 import './index.css'
+
+
 type CardProps = {
   title: string,
   paragraph: string

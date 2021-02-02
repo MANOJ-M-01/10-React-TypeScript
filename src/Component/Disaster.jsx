@@ -37,7 +37,7 @@ export const Blog = () => (
          </p>
         </div>
         <div className="blog-content four">
-            <h3>Atomic bombings of Hiroshima and Nagasaki <span className="title-subtext"> 6 Aug 1945 – 9 Aug 1945 </span></h3>
+            <h3>Atomic bombings of Hiroshima and Nagasaki <br /><span className="title-subtext"> 6 Aug 1945 – 9 Aug 1945 </span></h3>
             <p>The United States detonated two nuclear weapons over the Japanese cities of Hiroshima and Nagasaki on August 6 and 9, 1945, respectively. The two bombings killed between 129,000 and 226,000 people, most of whom were civilians, and remain the only use of nuclear weapons in armed conflict.
              </p><br /><img src="https://api.time.com/wp-content/uploads/2018/08/nagasaki-bombing-bomb-anniversary-hiroshima.jpg" className="img-hiroshima" alt="" srcset="" />
         </div>
@@ -53,8 +53,7 @@ export const Blog = () => (
         </div>
         <div className="blog-content seven">
             <h3>
-                UPDATED:SEP 18, 2020ORIGINAL:OCT 2, 2018
-The 2004 Tsunami Wiped Away Towns With 'Mind-Boggling' Destruction</h3>
+                The 2004 Tsunami Wiped Away Towns With 'Mind-Boggling' Destruction</h3>
             <p>It was 2004, the day after Christmas, and thousands of European and American tourists had flocked to the beaches of Thailand, Sri Lanka and Indonesia to escape the winter chill in a tropical paradise.
 
             At 7:59 AM, a 9.1-magnitude earthquake—one of the largest ever recorded—ripped through an undersea fault in the Indian Ocean, propelling a massive column of water toward unsuspecting shores. The Boxing Day tsunami would be the deadliest in recorded history, taking a staggering 230,000 lives in a matter of hours.
@@ -63,7 +62,7 @@ The 2004 Tsunami Wiped Away Towns With 'Mind-Boggling' Destruction</h3>
         </div>
         <div className="blog-content eight">
             <h3>Third plague pandemic</h3>
-            <p>The third plague pandemic was a major bubonic plague pandemic that began in Yunnan, China, in 1855 during the fifth year of the Xianfeng Emperor of the Qing dynasty.[1] This episode of bubonic plague spread to all inhabited continents, and ultimately led to more than 12 million (perhaps 15 million) deaths in India and China, with about 10 million killed in India alone, making it one of the deadliest pandemics in history.[2][3][4] According to the World Health Organization, the pandemic was considered active until 1960, when worldwide casualties dropped to 200 per year.[5] Plague deaths have continued at a lower level for every year since.
+            <p>The third plague pandemic was a major bubonic plague pandemic that began in Yunnan, China, in 1855 during the fifth year of the Xianfeng Emperor of the Qing dynasty. This episode of bubonic plague spread to all inhabited continents, and ultimately led to more than 12 million (perhaps 15 million) deaths in India and China, with about 10 million killed in India alone, making it one of the deadliest pandemics in history. According to the World Health Organization, the pandemic was considered active until 1960, when worldwide casualties dropped to 200 per year. Plague deaths have continued at a lower level for every year since.
              </p>
         </div>
 
@@ -75,11 +74,11 @@ The 2004 Tsunami Wiped Away Towns With 'Mind-Boggling' Destruction</h3>
 
         <div className="blog-content ten">
             <h3>Valdivia Earthquake  <span className="title-subtext"> May 22, 1960 CE: Valdivia Earthquake Strikes Chile</span></h3>
-            <p>The 1960 Valdivia earthquake (Spanish: Terremoto de Valdivia) or the Great Chilean earthquake (Gran terremoto de Chile) on 22 May 1960 was the most powerful earthquake ever recorded. Various studies have placed it at 9.4–9.6 on the moment magnitude scale.[1] It occurred in the afternoon (19:11 GMT, 15:11 local time), and lasted for approximately 10 minutes. The resulting tsunamis affected southern Chile, Hawaii, Japan, the Philippines, eastern New Zealand, southeast Australia, and the Aleutian Islands.
+            <p>The 1960 Valdivia earthquake (Spanish: Terremoto de Valdivia) or the Great Chilean earthquake (Gran terremoto de Chile) on 22 May 1960 was the most powerful earthquake ever recorded. Various studies have placed it at 9.4–9.6 on the moment magnitude scale. It occurred in the afternoon (19:11 GMT, 15:11 local time), and lasted for approximately 10 minutes. The resulting tsunamis affected southern Chile, Hawaii, Japan, the Philippines, eastern New Zealand, southeast Australia, and the Aleutian Islands.
 
             The epicenter of this megathrust earthquake was near Lumaco, approximately 570 kilometres (350 mi) south of Santiago, with Valdivia being the most affected city. The tremor caused localised tsunamis that severely battered the Chilean coast, with waves up to 25 metres (82 ft). The main tsunami traveled across the Pacific Ocean and devastated Hilo, Hawaii, where waves as high as 10.7 metres (35 ft), were recorded, over 10,000 kilometres (6,200 mi) from the epicenter.
 
-            The death toll and monetary losses arising from this widespread disaster are not certain.[4] Various estimates of the total number of fatalities from the earthquake and tsunamis have been published, ranging between 1,000 and 6,000 killed.[3] Different sources have estimated the monetary cost ranged from US$400 million to $800 million[5] (or $3.46 billion to $6.91 billion in 2019, adjusted for inflation).
+            The death toll and monetary losses arising from this widespread disaster are not certain. Various estimates of the total number of fatalities from the earthquake and tsunamis have been published, ranging between 1,000 and 6,000 killed. Different sources have estimated the monetary cost ranged from US$400 million to $800 million (or $3.46 billion to $6.91 billion in 2019, adjusted for inflation).
              </p>
         </div>
     </div>
